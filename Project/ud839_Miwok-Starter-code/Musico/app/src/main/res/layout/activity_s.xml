@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.android.musico.SActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:textAlignment="center"
+        android:text="Despacito"
+        android:textSize="16sp"
+        android:padding="16dp"
+        android:background="@android:color/black"
+        android:textColor="#ffffff"
+        android:textStyle="italic"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:textAlignment="center"
+        android:text="Closer"
+        android:textSize="16sp"
+        android:padding="16dp"
+        android:background="@android:color/black"
+        android:textColor="#ffffff"
+        android:textStyle="italic"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:textAlignment="center"
+        android:text="Rain Over Me"
+        android:textSize="16sp"
+        android:padding="16dp"
+        android:background="@android:color/black"
+        android:textColor="#ffffff"
+        android:textStyle="italic"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:textAlignment="center"
+        android:text="Cheap Thrills"
+        android:textSize="16sp"
+        android:padding="16dp"
+        android:background="@android:color/black"
+        android:textColor="#ffffff"
+        android:textStyle="italic"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:textAlignment="center"
+        android:text="Let Me Love You"
+        android:textSize="16sp"
+        android:padding="16dp"
+        android:background="@android:color/black"
+        android:textColor="#ffffff"
+        android:textStyle="italic"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:textAlignment="center"
+        android:text="International Love"
+        android:textSize="16sp"
+        android:padding="16dp"
+        android:background="@android:color/black"
+        android:textColor="#ffffff"
+        android:textStyle="italic"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:textAlignment="center"
+        android:text="Remember The Names"
+        android:textSize="16sp"
+        android:padding="16dp"
+        android:background="@android:color/black"
+        android:textColor="#ffffff"
+        android:textStyle="italic"/>
+
+</LinearLayout>

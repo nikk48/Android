@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Musico</string>
+    <string name="title_activity_artist">Artist</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="yellow">#ffa800</color>
+    <color name="blue">#303F9F</color>
+    <color name="green">#3e9448</color>
+
+    <color name="skyblue">#389891</color>
+    <color name="voilet">#8000ff</color>
+    <color name="green1">#396c2b</color>
+</resources>

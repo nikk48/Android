@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.android.music.MainActivity">
+
+    <TextView
+        android:id="@+id/songs"
+        android:layout_width="match_parent"
+        android:layout_height="88dp"
+        android:padding="16dp"
+        android:text="Songs"
+        android:textColor="#ffffff"
+        android:textSize="20sp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/artists"
+        android:layout_width="match_parent"
+        android:layout_height="88dp"
+        android:background="#47885e"
+        android:padding="16dp"
+        android:text="Artists"
+        android:textSize="20sp"
+        android:textColor="#ffffff"
+        android:textStyle="bold"
+        />
+
+    <TextView
+        android:id="@+id/share"
+        android:layout_width="match_parent"
+        android:layout_height="88dp"
+        android:text="Share"
+        android:padding="16dp"
+        android:background="#700c41"
+        android:textColor="#ffffff"
+        android:textStyle="bold"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:id="@+id/search"
+        android:layout_width="match_parent"
+        android:layout_height="88dp"
+        android:text="Search"
+        android:background="#52539f"
+        android:padding="16dp"
+        android:textColor="#ffffff"
+        android:textStyle="bold"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:id="@+id/buy"
+        android:layout_width="match_parent"
+        android:layout_height="88dp"
+        android:text="Buy Music"
+        android:textSize="20sp"
+        android:background="#6897bb"
+        android:textColor="#ffffff"
+        android:padding="16dp"/>
+
+
+
+</LinearLayout>
